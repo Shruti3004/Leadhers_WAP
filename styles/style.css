@@ -13,15 +13,66 @@ body{
     border-radius: 10px !important;
 }
 ::-webkit-scrollbar-thumb{
-    background: #E30B5D !important;
+    background: black !important;
     border-radius: 10px !important;
 }
-
+.line-height-heading{
+    line-height: 4.7rem !important;
+}
+.main-heading-paragraph{
+    font-size: 1.2rem;
+}
+/* .block-full-width{    
+    height: 100vh !important;
+} */
 /* ------------------------------------- Header ------------------------------------- */
 .main-header{
-    background: url('../images/main-header-illustration.png') no-repeat center center/cover;
+    background: url('../images/header-bg.png') no-repeat center center/cover;
     height: 100vh !important;
 }
-.dark-pink-text{
+.about{
+    background: url('../images/about-bg.png') no-repeat center center/cover;
+    padding: 7rem 0rem !important;
+    /* height: 100vh !important; */
+}
+.info{
+    background: url('../images/info-bg.png') no-repeat center center/cover;
+    padding: 7rem 0rem !important;
+}
+.dark-blue-text{
     color: #092340;
+}
+.green-bg{
+    background: #47D19A !important;
+}
+#testimonial{
+    padding: 7rem 0rem !important;
+}
+.carousel-indicators li{
+    display: inline-block;
+    width: 10px !important;
+    height: 10px !important;
+    cursor: pointer;
+    margin: 10px;
+    text-indent: 0;
+    border-radius: 50%;
+    background-color: #ffd95c83 !important;
+}
+.carousel-indicators .active{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #FFD85C !important;
+}
+.blog-carousel-background{
+    background: #47d19a;
+    border-radius: 100px 100px 0px 100px;
+    padding: 30px 40px !important;
+}
+.blog-image{
+    border-radius: 30px 30px 30px 0px;
+    height: 110px !important;
+}
+.centered-block{
+    padding: 20vh 0vh;
 }
