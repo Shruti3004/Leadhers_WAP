@@ -159,7 +159,7 @@ input{
         height: auto;
     }
     .info{
-        background: url('../images/info-mobile-bg.png') no-repeat center center/cover;
+        background: url('../images/info-mobile-bg.png') no-repeat center center/contain;
     }
     #aims{
         background: url('../images/aims-mobile-bg.png') no-repeat center center/cover;
