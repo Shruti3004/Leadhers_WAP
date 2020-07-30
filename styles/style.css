@@ -129,3 +129,32 @@ body{
     padding: 8rem 0rem !important;
     height: 100vh;
 }
+input{
+    background: #B5EDD7 !important;
+}
+
+/* Media Queries */
+@media screen and (max-width: 480px){
+    .normal-heading{
+        font-size: 40px !important;
+        font-weight: 400 !important;
+    }
+    .main-header{
+        background: url('../images/main-header-mobile-bg.png') no-repeat center center/cover;
+        height: 100vh !important;
+    }    
+    .about{
+        background: url('../images/why-us-mobile-bg.png') no-repeat center center/cover;        
+        height: auto;
+    }
+    .info{
+        background: url('../images/info-mobile-bg.png') no-repeat center center/cover;
+    }
+    #aims{
+        background: url('../images/aims-mobile-bg.png') no-repeat center center/cover;
+        height: auto;
+    }    
+    #contact{
+        background: url('../images/contact-us-mobile-bg.png') no-repeat center center/contain;        
+    }
+}
