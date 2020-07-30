@@ -1,14 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap');
 
-
-body{
+body {
+    margin: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #fff;
     font-family: 'Poppins', sans-serif !important;
+  }
+  
+body *:focus {
+    outline: 0 !important;
 }
 
 /* ------------------------------------- Utility Classes ------------------------------------- */
 ::-webkit-scrollbar{
     width: 10px !important;
-  }
+}
 ::-webkit-scrollbar-track{
     box-shadow: inset 0 0 5px rgba(0,0,0,0.3) !important;
     border-radius: 10px !important;
@@ -164,7 +172,10 @@ input{
     #aims{
         background: url('../images/aims-mobile-bg.png') no-repeat center center/cover;
         height: auto;
-    }    
+    }  
+    #testimonial{
+        background: url('../images/testimonials-mobile-bg.png') no-repeat center center/cover;
+    }  
     #contact{
         background: url('../images/contact-us-mobile-bg.png') no-repeat center center/contain;        
     }
