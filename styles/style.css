@@ -54,6 +54,28 @@ body *:focus {
     color: #47D19A !important;
 }
 
+/* ------------------------------------- Preloader ------------------------------------- */
+#preloader {
+    position:fixed;
+    bottom: 0;
+    top:0;
+    left: 0;
+    right: 0;
+    z-index: 10000;
+    background: #fff;
+}
+#status {
+    width: 137px;
+    height: 81px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url('../images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 /* ------------------------------------- Header ------------------------------------- */
 .main-header{
     background: url('../images/header-bg.png') no-repeat center center/cover;
