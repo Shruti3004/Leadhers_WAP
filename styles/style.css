@@ -57,8 +57,12 @@ body{
 .main-heading-paragraph{
     font-size: 1.2rem;
 }
+.tagline{
+    font-size: 65px !important;
+    font-weight: 900 !important;
+}
 .centered-block{
-    padding: 6vh 0vh;
+    padding: 15vh 0vh;
 }
 
 /* ------------------------------------- Why us ------------------------------------- */
@@ -138,6 +142,13 @@ input{
     .normal-heading{
         font-size: 40px !important;
         font-weight: 400 !important;
+    }
+    .line-height-heading{
+        line-height: 3.5rem !important;
+    }    
+    .tagline{
+        font-size: 50px !important;
+        font-weight: 900 !important;
     }
     .main-header{
         background: url('../images/main-header-mobile-bg.png') no-repeat center center/cover;
