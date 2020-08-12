@@ -94,7 +94,14 @@ body *:focus {
 .centered-block{
     padding: 15vh 0vh;
 }
+/*--------------------------------------- Nav Bar-------------------------------------*/
 
+.navbar-collapse
+{
+    z-index:10;
+	background-color:transparent;
+
+}
 /* ------------------------------------- Why us ------------------------------------- */
 .about{
     background: url('../images/why-us-bg.png') no-repeat center center/cover;
