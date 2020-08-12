@@ -95,18 +95,14 @@ body *:focus {
     padding: 15vh 0vh;
 }
 /*--------------------------------------- Nav Bar-------------------------------------*/
-
-.navbar-collapse
-{
-    z-index:10;
-	background-color:transparent;
-
-}
 .nav-link{
     color:#5956E9;
 }
 .nav-link:hover{
     color:black;	
+}
+.navbar{
+    background-color:white;
 }
 /* ------------------------------------- Why us ------------------------------------- */
 .about{
