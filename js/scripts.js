@@ -14,7 +14,7 @@ window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
   if (document.body.scrollTop > 20) {
-    document.getElementById("navbarNavAltMarkup").style.background = "green";
+    document.getElementById("navbarNavAltMarkup").style.background = "#47D19A";
   } else {
     document.getElementById("navbarNavAltMarkup").style.background = "transparent";
   }
