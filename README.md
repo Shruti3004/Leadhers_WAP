@@ -12,3 +12,5 @@ Educational Institution
 2020
 
 # Reach us at
+
+<a align="center" href=https://www.linkedin.com/company/leadhersofwap/about/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/isanghamitra" height="20" width="20" /></a>
