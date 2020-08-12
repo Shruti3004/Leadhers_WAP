@@ -102,6 +102,12 @@ body *:focus {
 	background-color:transparent;
 
 }
+.nav-link{
+    color:#5956E9;
+}
+.nav-link:hover{
+    color:black;	
+}
 /* ------------------------------------- Why us ------------------------------------- */
 .about{
     background: url('../images/why-us-bg.png') no-repeat center center/cover;
