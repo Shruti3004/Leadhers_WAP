@@ -206,6 +206,7 @@ input{
     }
     #main-header{
         background: url('../images/main-header-mobile-bg.png') no-repeat center center/cover;
+        background-attachment: fixed;
         height: 100vh !important;
     }    
     .about{
@@ -214,13 +215,16 @@ input{
     }
     .info{
         background: url('../images/info-mobile-bg.png') no-repeat center center/contain;
+        background-attachment: fixed;
     }
     #aims{
         background: url('../images/aims-mobile-bg.png') no-repeat center center/cover;
+        background-attachment: fixed;
         height: auto;
     }  
     #testimonial{
         background: url('../images/testimonials-mobile-bg.png') no-repeat center center/cover;
+        background-attachment: fixed;
     }  
     #contact{
         background: url('../images/contact-us-mobile-bg.png') no-repeat center center/contain;        
