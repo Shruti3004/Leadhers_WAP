@@ -111,11 +111,11 @@ body *:focus {
 .centered-block{
     padding: 8vh 0vh;
 }
-/*---------------------------------------Nav bar-------------------------------------*/
-
-.nav-link:hover{
-     border-bottom:4px solid #5956E9;
+/*---------------------------------------Nav Bar-------------------------------------*/
+.nav-item:hover{
+    border-buttom:4px solid #5956E9;
 }
+
 /* ------------------------------------- Why us ------------------------------------- */
 #about{
     background: url('../images/why-us-bg.png') no-repeat center center/cover;
