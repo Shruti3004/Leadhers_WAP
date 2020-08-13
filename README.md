@@ -1,5 +1,6 @@
 <h1 align="center">नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">We are LeadHers!</h1>
 
+<p align="center"><img src= https://pbs.twimg.com/profile_images/1269237353509355522/B8LRuI44.jpg alt=c width="283" height="216.75"/> </p>
 
 # About Leadhers
 
