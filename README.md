@@ -16,9 +16,9 @@ Educational Institution
 # Reach us at
 
 <p align="center">
-<a align="center" href=https://www.linkedin.com/company/leadhersofwap/about/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/isanghamitra" height="20" width="20" /></a> 
+<a align="center" href=https://www.linkedin.com/company/leadhersofwap/about/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/isanghamitra" height="30" width="30" /></a> 
 <a href= https://www.facebook.com/leadhersofwap/ target="blank"><img src= https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="https://www.facebook.com/leadhersofwap/" height="30" width="30"></a>
-<a href=https://instagram.com/leadhersofwap target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@leadhersofwap" height="20" width="20" /></a>
+<a href=https://instagram.com/leadhersofwap target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@leadhersofwap" height="30" width="30" /></a>
   </p>
 
 <img src=  width="300" height="280">
