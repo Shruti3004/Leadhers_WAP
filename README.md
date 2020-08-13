@@ -4,8 +4,15 @@
 
 A division of We Are Plymouths, dedicated for women focussed on women empowerment and quality education.We work on providing and supporting girls who wish to lead the society by her talent and knowledge. LeadHers is home of knowledge, enthusiastic learners, smart minds, and personalities. We want to equalize the count of girls in technology and services. Our community will provide opportunities, skills, confidence, awareness about the in-demand technologies today which are needed in different sectors of country.
 
+# Why US?
+
+- We want to become a contributor in developing our country by providing enthusiasts and very smart minded girls and related so that she can help our country,her individual and society in STEM. LeadHers aims at balancing the count of girls in technical knowledge and in skillset too.
+- We are conducting awareness sessions, technical sessions, bootcamps, online meet-ups, webinars etc. for creating our society indulge with us and can become a volunteer or member of this beautiful initiative.
+- We are a supporting hand to the LGBTQ community.
+- We want to equalize the count of girls in technology and services.Our community will provide opportunities, skills,confidence, awareness about the in-demand technologies today which are needed in different sectors of country
+
 # Company size 
-51-200 employees
+51-100 employees
 
 # Type 
 Educational Institution
@@ -21,4 +28,4 @@ Educational Institution
 <a href=https://instagram.com/leadhersofwap target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@leadhersofwap" height="30" width="30" /></a>
   </p>
 
-<img src=  width="300" height="280">
+
