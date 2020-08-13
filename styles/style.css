@@ -34,6 +34,9 @@ body *:focus {
 .pink-bg{
     background: #FF5C77 !important;
 }
+.blue-bg{
+    background: #5956E9 !important;
+}
 .dark-blue-text{
     color: #092340;
 }
@@ -76,9 +79,18 @@ body *:focus {
     background-position: center;
 }
 
+.fixed-arrow{
+    position: fixed;
+    top: 87%;    
+    left: 93%;
+    border-radius: 50% !important;
+    background: #5956E9 !important;
+    padding: 10px 15px;
+}
 /* ------------------------------------- Header ------------------------------------- */
-.main-header{
+#main-header{
     background: url('../images/header-bg.png') no-repeat center center/cover;
+    background-attachment: fixed;
     height: 100vh !important;
 }
 .line-height-heading{
@@ -92,7 +104,7 @@ body *:focus {
     font-weight: 900 !important;
 }
 .centered-block{
-    padding: 15vh 0vh;
+    padding: 8vh 0vh;
 }
 
 /* ------------------------------------- Why us ------------------------------------- */
@@ -104,6 +116,7 @@ body *:focus {
 /* ------------------------------------- Info ------------------------------------- */
 .info{
     background: url('../images/info-bg.png') no-repeat center center/cover;
+    background-attachment: fixed;
     padding: 8rem 0rem !important;
 }
 
@@ -146,6 +159,7 @@ body *:focus {
 /* ------------------------------------- Aims ------------------------------------- */
 #aims{
     background: url('../images/aims-bg.png') no-repeat center center/cover;
+    background-attachment: fixed;
     padding: 8rem 0rem !important;
     height: 100vh;
 }
@@ -169,6 +183,14 @@ input{
 
 /* Media Queries */
 @media screen and (max-width: 480px){
+    .fixed-arrow{
+        position: fixed;
+        top: 87%;    
+        left: 80%;
+        border-radius: 50% !important;
+        background: #5956E9 !important;
+        padding: 10px 15px;
+    }
     .normal-heading{
         font-size: 40px !important;
         font-weight: 400 !important;
@@ -180,7 +202,7 @@ input{
         font-size: 50px !important;
         font-weight: 900 !important;
     }
-    .main-header{
+    #main-header{
         background: url('../images/main-header-mobile-bg.png') no-repeat center center/cover;
         height: 100vh !important;
     }    
@@ -200,5 +222,16 @@ input{
     }  
     #contact{
         background: url('../images/contact-us-mobile-bg.png') no-repeat center center/contain;        
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px){
+    .fixed-arrow{
+        position: fixed;
+        top: 90%;    
+        left: 87%;
+        border-radius: 50% !important;
+        background: #5956E9 !important;
+        padding: 10px 15px;
     }
 }
