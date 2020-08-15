@@ -238,6 +238,9 @@ input, textarea{
         background: url('../images/testimonials-mobile-bg.png') no-repeat center center/cover;
         background-attachment: fixed;
     }  
+    #faqs{
+        padding: 50px 0px!important;
+    }
     #contact{
         background: url('../images/contact-us-mobile-bg.png') no-repeat center center/contain;        
     }
