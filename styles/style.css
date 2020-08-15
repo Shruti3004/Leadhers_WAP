@@ -205,6 +205,9 @@ input, textarea{
         padding: 10px 15px;
         z-index: 10;
     }
+    .mobile-heading{
+        font-size: 40px !important;
+    }
     .normal-heading{
         font-size: 40px !important;
         font-weight: 400 !important;
