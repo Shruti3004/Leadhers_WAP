@@ -108,9 +108,6 @@ body *:focus {
     font-size: 65px !important;
     font-weight: 900 !important;
 }
-.centered-block{
-    padding: 8vh 0vh;
-}
 .nav-item:hover, span .active{
     border-bottom :4px solid #5956E9 !important;
     color: #5956E9 !important;
