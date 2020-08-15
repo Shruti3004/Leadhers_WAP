@@ -176,14 +176,22 @@ body *:focus {
     height: 100vh;
 }
 
+#faqs{
+    padding: 50px 15em;
+    background: url('../images/why-us-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* ------------------------------------- Contact ------------------------------------- */
 #contact{
     background: url('../images/contact-bg.png') no-repeat center center/cover;
     padding: 8rem 0rem !important;
     height: 100vh;
 }
-input{
-    background: #B5EDD7 !important;
+input, textarea{
+    background: #ffd95c6c !important;
 }
 
 /* Media Queries */
