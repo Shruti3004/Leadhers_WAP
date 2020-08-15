@@ -96,7 +96,7 @@ body *:focus {
 #main-header{
     background: url('../images/header-bg.png') no-repeat center center/cover;
     background-attachment: fixed;
-    height: 100vh !important;
+    height: auto !important;
 }
 .line-height-heading{
     line-height: 4.5rem !important;
@@ -104,18 +104,21 @@ body *:focus {
 .main-heading-paragraph{
     font-size: 1.2rem;
 }
+.header{
+    padding-top: 50px!important;
+    padding-bottom: 100px!important;
+}
 .tagline{
     font-size: 65px !important;
     font-weight: 900 !important;
 }
-.centered-block{
-    padding: 8vh 0vh;
+.nav-item:hover, span .active{
+    border-bottom :4px solid #5956E9 !important;
+    color: #5956E9 !important;
 }
-/*---------------------------------------Nav Bar-------------------------------------*/
-.nav-item:hover{
-    border-buttom:4px solid #5956E9;
+.navbar{
+    margin-top: 0 !important;
 }
-
 /* ------------------------------------- Why us ------------------------------------- */
 #about{
     background: url('../images/why-us-bg.png') no-repeat center center/cover;
@@ -180,14 +183,27 @@ body *:focus {
     height: 100vh;
 }
 
+#faqs{
+    padding: 50px 15em;
+    background: url('../images/why-us-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* ------------------------------------- Contact ------------------------------------- */
 #contact{
     background: url('../images/contact-bg.png') no-repeat center center/cover;
-    padding: 8rem 0rem !important;
-    height: 100vh;
+    padding: 4rem 0rem !important;
+    height: auto;
 }
-input{
-    background: #B5EDD7 !important;
+input, textarea{
+    background: #ffd95c6c !important;
+}
+
+/* ------------------------------------- Footer ------------------------------------- */
+#footer{
+    background: url('../images/blogs-bg.png') no-repeat center center/cover;
 }
 
 /* Media Queries */
@@ -200,6 +216,9 @@ input{
         background: #5956E9 !important;
         padding: 10px 15px;
         z-index: 10;
+    }
+    .mobile-heading{
+        font-size: 40px !important;
     }
     .normal-heading{
         font-size: 40px !important;
@@ -234,6 +253,9 @@ input{
         background: url('../images/testimonials-mobile-bg.png') no-repeat center center/cover;
         background-attachment: fixed;
     }  
+    #faqs{
+        padding: 50px 0px!important;
+    }
     #contact{
         background: url('../images/contact-us-mobile-bg.png') no-repeat center center/contain;        
     }
@@ -248,5 +270,11 @@ input{
         background: #5956E9 !important;
         padding: 10px 15px;
         z-index: 10;
+    }
+    .mobile-heading{
+        font-size: 40px !important;
+    }
+    #faqs{
+        padding: 50px 0px!important;
     }
 }
