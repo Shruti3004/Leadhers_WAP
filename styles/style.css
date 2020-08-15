@@ -200,11 +200,45 @@ body *:focus {
 input, textarea{
     background: #ffd95c6c !important;
 }
-
 /* ------------------------------------- Footer ------------------------------------- */
 #footer{
     background: url('../images/blogs-bg.png') no-repeat center center/cover;
 }
+ #footer{
+            height:300px;
+            width:100%;
+        }
+        .contactblock,.useful_links ,.footer_logo{
+        float:left;
+        width:25%;
+        margin:0% 3%;
+         }
+#footer li{
+    list-style:none;
+    padding-top:5px; 
+    text-align:left;
+    }
+
+#footer li a{
+    text-decoration:none;
+    font-size:17px;
+    color:white;
+}
+#footer li a:hover{
+    color:#FFD85C;
+   
+}
+#footer h5{
+    color:white;
+    text-align:left;
+}
+.copyright{
+    background-color:#27272E;
+    width:100%;
+ color:white;
+    text-align:center;
+}
+
 
 /* Media Queries */
 @media screen and (max-width: 480px){
@@ -277,4 +311,8 @@ input, textarea{
     #faqs{
         padding: 50px 0px!important;
     }
+
 }
+
+}
+
