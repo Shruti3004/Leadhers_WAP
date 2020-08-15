@@ -226,7 +226,8 @@ input, textarea{
     color:white;
 }
 #footer li a:hover{
-    color:blue;
+    color:#5956E9 ;
+    opacity:0.5;
 }
 #footer h5{
     color:white;
