@@ -6,6 +6,7 @@
 
 A division of We Are Plymouths, dedicated for women focussed on women empowerment and quality education.We work on providing and supporting girls who wish to lead the society by her talent and knowledge. LeadHers is home of knowledge, enthusiastic learners, smart minds, and personalities. We want to equalize the count of girls in technology and services. Our community will provide opportunities, skills, confidence, awareness about the in-demand technologies today which are needed in different sectors of country.
 
+
 # Why US?
 
 - We want to become a contributor in developing our country by providing enthusiasts and very smart minded girls and related so that she can help our country,her individual and society in STEM. LeadHers aims at balancing the count of girls in technical knowledge and in skillset too.
